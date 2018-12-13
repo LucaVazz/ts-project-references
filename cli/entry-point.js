@@ -1,2 +1,0 @@
-showTempConversion();
-showLengthConversion();

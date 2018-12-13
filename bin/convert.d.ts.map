@@ -1,1 +1,0 @@
-{"version":3,"file":"convert.d.ts","sourceRoot":"","sources":["../converter/length.ts","../converter/temperature.ts"],"names":[],"mappings":"AAEA,kBAAU,OAAO,CAAC;IACP,MAAM,YAAY,UAAU,CAAC;IAEpC,sBAA6B,GAAG,MAAM,UAErC;IAED,sBAA6B,GAAG,MAAM,UAErC;IAGD,sBAA6B,GAAG,MAAM,UAOrC;CACJ;ACrBD,kBAAU,OAAO,CAAC;IACd,cAAqB,GAAG,MAAM,UAE7B;IAED,cAAqB,GAAG,MAAM,UAE7B;CACJ"}
